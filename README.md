@@ -1,7 +1,7 @@
 # 12_image_resize
 
-## Need to install **Pillow** library for work with image from *requirements.txt*
-## While run script need to mention some option:
+### Need to install **Pillow** library for work with image from *requirements.txt*
+### While run script need to mention some option:
 - input -**mandatory** parametrs,the path where located a image 
 - width 
 - height
