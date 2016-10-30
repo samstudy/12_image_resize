@@ -4,7 +4,6 @@ import os
 from PIL import Image
 
 
-
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('input', help='Mandatory parametr')
